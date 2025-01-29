@@ -1,0 +1,18 @@
+cd /workspace/home
+
+python3 civitaidownload.py https://civitai.com/api/download/models/125985 /workspace/ComfyUI/models/loras/
+
+python3 civitaidownload.py https://civitai.com/api/download/models/529725 /workspace/ComfyUI/models/animatediff_motion_lora/
+
+
+python3 civitaidownload.py https://civitai.com/api/download/models/252914 /workspace/ComfyUI/models/checkpoints/
+
+python3 civitaidownload.py https://civitai.com/api/download/models/413877 /workspace/ComfyUI/models/checkpoints/
+
+
+python3 civitaidownload.py https://civitai.com/api/download/models/311162 /workspace/ComfyUI/models/vae/
+
+
+
+python3 civitaidownload.py https://civitai.com/api/download/models/172902 /workspace/ComfyUI/models/checkpoints/
+
